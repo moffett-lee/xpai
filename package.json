@@ -27,7 +27,9 @@
     "yamljs": "^0.3.0"
 
   },
-  "dependencies": {
-    "vuepress-plugin-comment": "^0.7.3"
+ "dependencies": {
+    "vuepress-plugin-comment": "^0.7.3",
+    "vuepress-plugin-cursor-effects": "^1.0.2",
+    "vuepress-plugin-reading-progress": "^1.0.10"
   }
 }
